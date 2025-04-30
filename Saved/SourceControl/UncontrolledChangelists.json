@@ -7,9 +7,11 @@
 			"files": [
 				"C:/Users/ritac/OneDrive/Documentos/Unreal Projects/RadioProject/Content/Maps/Map_RadioInteraction.umap",
 				"C:/Users/ritac/OneDrive/Documentos/Unreal Projects/RadioProject/Content/Blueprints/BP_Radio.uasset",
-				"C:/Users/ritac/OneDrive/Documentos/Unreal Projects/RadioProject/Content/GameFramework/Player/BP_Player_RadioInteracitonn.uasset",
 				"C:/Users/ritac/OneDrive/Documentos/Unreal Projects/RadioProject/Content/GameFramework/GM_RadioInteracion.uasset",
 				"C:/Users/ritac/OneDrive/Documentos/Unreal Projects/RadioProject/Content/GameFramework/Player/BP_Player_RadioInteraciton.uasset",
+				"C:/Users/ritac/OneDrive/Documentos/Unreal Projects/RadioProject/Content/Input/IA_PlayerZoom.uasset",
+				"C:/Users/ritac/OneDrive/Documentos/Unreal Projects/RadioProject/Content/Input/IMC_RadioInteration.uasset",
+				"C:/Users/ritac/OneDrive/Documentos/Unreal Projects/RadioProject/Content/GameFramework/Player/BP_Player_RadioInteracitonn.uasset",
 				"C:/Users/Labtime/Documents/Unreal Projects/RadioInteraction/Content/Art/Textures/T_Radio_ALB.uasset",
 				"C:/Users/Labtime/Documents/Unreal Projects/RadioInteraction/Content/Art/Textures/T_Radio_EM.uasset",
 				"C:/Users/Labtime/Documents/Unreal Projects/RadioInteraction/Content/Art/Textures/T_Radio_Glass_ALB.uasset",
